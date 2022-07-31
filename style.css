@@ -1,0 +1,31 @@
+.pizza-img {
+  height: 350px;
+}
+.pizza-img:hover {
+  height: 450px;
+}
+.product-info {
+  display: inline-block;
+  margin-right: 30px;
+  font-weight: bold;
+  background-color: blanchedalmond;
+}
+.product-info:hover {
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  font-size: 20px;
+}
+.product {
+  display: inline-block;
+}
+
+.product-ingredients {
+  float: left;
+}
+.product-make {
+  padding-left: 50%;
+}
+ol {
+  line-height: 1.8;
+}
